@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: shrey-mishra
           # Text on contribution graph 
-          text: SHREY
+          text: S H R E Y
       - uses: jasineri/simple-push-action@v1
