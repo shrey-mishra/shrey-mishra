@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrey Mishra</h1>
+
+![gitartwork](gitartwork.svg)
+
 <h3 align="center">Co-Founder - Zetrance XR || CSE || Artificial Intelligence || Machine Learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra" alt="shrey-mishra" /></a> </p>
