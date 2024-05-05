@@ -29,46 +29,40 @@
 
   <h3>Programming Languages:</h3>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,c++"/>
-  <h3>Frontend Technologies:</h3>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
+
+  <h3>DevOPS</h3>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker,kubernetes"/>
 
   <h3>Backend Technologies:</h3>
-  <p>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-      </a>
-      <!-- Add more backend technologies here -->
-  </p>
+   <img src="https://skillicons.dev/icons?i=nodejs,nginx"/>
 
-  <h3>Version Control and DevOps:</h3>
-  <p>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-      <!-- Add more version control and DevOps tools here -->
-  </p>
+  <h3>Front End Developement</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+
 
   <h3>Database Systems:</h3>
-  <p>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <!-- Add more database systems here -->
-  </p>
+   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-  <h3>Other Technologies:</h3>
-  <p>
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-      </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-      <!-- Add more miscellaneous technologies here -->
-  </p>
+ 
+  <h3>AI/ML</h3>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,opencv,sckitlearn"/>
+
+  
+  <h3>Data Visualisation</h3>
+    <img src="https://skillicons.dev/icons?i=canvasjs"/>
+ 
+  <h3>Framework</h3>
+    <img src="https://skillicons.dev/icons?i=django"/>
+ 
+  <h3>Softwares</h3>
+    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,postman"/>
+
+   
+  <h3>Game Engines</h3>
+    <img src="https://skillicons.dev/icons?i=unreal"/>
+ 
+  
+ 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-mishra&show_icons=true&locale=en&layout=compact" alt="shrey-mishra" /></p>
