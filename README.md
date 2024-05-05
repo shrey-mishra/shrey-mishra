@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker,kubernetes"/>
 
   <h3>Backend Technologies:</h3>
-   <img src="https://skillicons.dev/icons?i=nodejs,nginx"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,nginx,flask,firebase"/>
 
   <h3>Front End Developement</h3>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
@@ -45,7 +45,7 @@
 
  
   <h3>AI/ML</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,opencv,sckitlearn"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sckitlearn"/>
 
   
   <h3>Data Visualisation</h3>
