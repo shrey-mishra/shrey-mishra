@@ -27,43 +27,38 @@
 
 
 
-  <h3>Programming Languages:</h3>
+<h3>Programming Languages:</h3>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp"/>
 
-  <h3>DevOPS</h3>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker,kubernetes"/>
+<h3>DevOPS</h3>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker,kubernetes"/>
 
-  <h3>Backend Technologies:</h3>
-   <img src="https://skillicons.dev/icons?i=nodejs,nginx,flask,firebase"/>
+<h3>Backend Technologies:</h3>
+ <img src="https://skillicons.dev/icons?i=nodejs,nginx,flask,firebase"/>
 
-  <h3>Front End Developement</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<h3>Front End Developement</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 
 
-  <h3>Database Systems:</h3>
-   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<h3>Database Systems:</h3>
+ <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
- 
-  <h3>AI/ML</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sckitlearn"/>
 
-  <h3>Framework</h3>
-    <img src="https://skillicons.dev/icons?i=django"/>
- 
-  <h3>Softwares</h3>
-    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,postman"/>
-     
-    
-  <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=fastapi,git,github,pycharm,eclipse,visualstudio"/>
+<h3>AI/ML</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sckitlearn"/>
 
+<h3>Framework</h3>
+  <img src="https://skillicons.dev/icons?i=django"/>
+
+<h3>Softwares</h3>
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,postman"/>
    
-  <h3>Game Engines</h3>
-    <img src="https://skillicons.dev/icons?i=unreal"/>
- 
   
+<h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,pycharm,eclipse,vscode,ubuntu"/>
  
-
+<h3>Game Engines</h3>
+  <img src="https://skillicons.dev/icons?i=unreal"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-mishra&show_icons=true&locale=en&layout=compact" alt="shrey-mishra" /></p>
 
