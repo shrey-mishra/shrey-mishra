@@ -28,20 +28,9 @@
 
 
   <h3>Programming Languages:</h3>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,c++"                    />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,c++"/>
   <h3>Frontend Technologies:</h3>
-  <p>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-      </a>
-      <!-- Add more frontend technologies here -->
-  </p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
 
   <h3>Backend Technologies:</h3>
   <p>
