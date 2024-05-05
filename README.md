@@ -28,7 +28,7 @@
 
 
   <h3>Programming Languages:</h3>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,c++"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp"/>
 
   <h3>DevOPS</h3>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker,kubernetes"/>
@@ -47,15 +47,15 @@
   <h3>AI/ML</h3>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sckitlearn"/>
 
-  
-  <h3>Data Visualisation</h3>
-    <img src="https://skillicons.dev/icons?i=canvasjs"/>
- 
   <h3>Framework</h3>
     <img src="https://skillicons.dev/icons?i=django"/>
  
   <h3>Softwares</h3>
     <img src="https://skillicons.dev/icons?i=illustrator,photoshop,postman"/>
+     
+    
+  <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=fastapi,git,github,pycharm,eclipse,visualstudio"/>
 
    
   <h3>Game Engines</h3>
