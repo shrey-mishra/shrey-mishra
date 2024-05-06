@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp"/>
 
 <h3>DevOPS</h3>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker"/>
 
 <h3>Backend Technologies:</h3>
  <img src="https://skillicons.dev/icons?i=nodejs,nginx,flask,firebase"/>
