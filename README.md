@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **AIML Projects**
 
-- 💬 Ask me about **Large Language Models (LLMS), Cloud Computing , AI & ML**
+- 💬 Ask me about **Large Language Models (LLM), Cloud Computing , Artificial Intelligence & Machine Learning**
 
 - 📫 How to reach me **shrey.mishra.dev@gmail.com**
 
