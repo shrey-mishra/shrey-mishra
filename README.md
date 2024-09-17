@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shrey.mishra.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h2INUm0dImCH7XFJ3kCDx1_YexGPhgn8/view?usp=sharing](https://drive.google.com/file/d/1h2INUm0dImCH7XFJ3kCDx1_YexGPhgn8/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h2INUm0dImCH7XFJ3kCDx1_YexGPhgn8/view?usp=sharing](https://drive.google.com/file/d/1h2INUm0dImCH7XFJ3kCDx1_YexGPhgn8/view?usp=sharing)](https://drive.google.com/file/d/19Y-IFAr5UpYnOeNDBMUGeu3l8sCMLBM3/view?usp=sharing)
 
 - ⚡ Fun fact **AI's gonna take over the world!**
 
