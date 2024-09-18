@@ -4,9 +4,14 @@
 
 <h3 align="center">Co-Founder - Zetrance XR || CSE || Artificial Intelligence || Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra" alt="shrey-mishra" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra"   
+ alt="shrey-mishra" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **Integrating cutting-edge AI capabilities to optimize user engagement.**
+- 🔭 I’m currently working on **Integrating AI capabilities to optimize user engagement.**
 
 - 🌱 I’m currently learning **Data Science, Computer Vision , AI and ML**
 
