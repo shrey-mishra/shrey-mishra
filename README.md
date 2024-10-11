@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shrey.mishra.dev@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/19Y-IFAr5UpYnOeNDBMUGeu3l8sCMLBM3/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1QHpLYAH7CcjsgtMAmQ6cnNx-GIcn7UIC/view?usp=sharing
 
 - ⚡ Fun fact **AI's gonna take over the world!**
 
