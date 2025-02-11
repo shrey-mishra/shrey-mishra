@@ -2,7 +2,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-<h3 align="center">Co-Founder - Zetrance XR || CSE || Artificial Intelligence || Machine Learning</h3>
+<h3 align="center">Co-Founder - KashLabs AI || CSE || Artificial Intelligence || Machine Learning</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
