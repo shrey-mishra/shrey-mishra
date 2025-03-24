@@ -23,7 +23,7 @@
 ## 🛠️ Skills
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <!-- Left Column -->
+  <!-- Left Column: First 5 Categories -->
   <div style="width: 48%;">
     <h3>Programming Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp&perline=3" />
@@ -36,7 +36,7 @@
     <h3>Database Systems</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
   </div>
-  <!-- Right Column -->
+  <!-- Right Column: Next 5 Categories -->
   <div style="width: 48%;">
     <h3>AI/ML</h3>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&perline=2" />
