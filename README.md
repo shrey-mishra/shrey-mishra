@@ -19,7 +19,7 @@
         <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
       </ul>
     </td>
-    <td style="border: none; text-align: left; padding: 10px;">
+    <td style="border: none; text-align: centre; padding: 10px;">
       <img src="https://your-gif-url-here.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
     </td>
   </tr>
