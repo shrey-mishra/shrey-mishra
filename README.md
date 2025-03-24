@@ -6,10 +6,10 @@
 ---
 ---
 
-## 🚀 About Me
+## 🚀 this is me!
 
 <p align="center">
-  <img src="CkPe.gif" alt="AI Icon" width="40" height="40"/>
+  <img src="CkPe.gif" alt="AI Icon" width="400" height="400"/>
 </p>
 
 I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:
