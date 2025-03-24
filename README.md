@@ -8,17 +8,23 @@
 
 ## 🚀 this is me!
 
-<p align="center">
-  <img src="CkPe.gif" alt="AI Icon" width="400" height="400"/>
-</p>
-
-I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:
-
-- 🔭 Working on AI-driven user engagement tools  
-- 🌱 Learning Data Science, Computer Vision, and ML  
-- 👯‍♂️ Up for collaborating on AIML projects  
-- 💬 Chat with me about LLMs, Cloud, or AI  
-- ⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)  
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <!-- Left Side: Text -->
+  <div style="flex: 1; text-align: left;">
+    <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
+    <ul>
+      <li>🔭 Working on AI-driven user engagement tools</li>
+      <li>🌱 Learning Data Science, Computer Vision, and ML</li>
+      <li>👯‍♂️ Up for collaborating on AIML projects</li>
+      <li>💬 Chat with me about LLMs, Cloud, or AI</li>
+      <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
+    </ul>
+  </div>
+  <!-- Right Side: GIF -->
+  <div style="flex: 1; text-align: center;">
+    <img src="CkPe.gif" alt="AI GIF" width="400" height="400"/>
+  </div>
+</div>
 
 ---
 
