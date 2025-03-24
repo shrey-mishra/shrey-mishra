@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
-   <td text-align: left; padding: 10px;">
+    <td style="text-align: left; padding: 10px; border: none;">
       <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
       <ul>
         <li>🔭 Working on AI-driven user engagement tools</li>
@@ -19,7 +19,7 @@
         <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
       </ul>
     </td>
-    <td text-align: centre; padding: 10px;">
+    <td style="text-align: center; padding: 10px; border: none;">
       <img src="https://your-gif-url-here.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
     </td>
   </tr>
