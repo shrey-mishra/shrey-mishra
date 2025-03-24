@@ -6,9 +6,9 @@
 ---
 ---
 
-## 🚀 this is me!
+## 🚀 About Me!
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <!-- Left Side: Text -->
   <div style="flex: 1; text-align: left;">
     <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
@@ -22,7 +22,7 @@
   </div>
   <!-- Right Side: GIF -->
   <div style="flex: 1; text-align: center;">
-    <img src="6os.gif" alt="AI GIF" width="400" height="400"/>
+    <img src="6os.gif" alt="AI GIF" width="300" height="300"/>
   </div>
 </div>
 
