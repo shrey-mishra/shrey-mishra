@@ -63,7 +63,7 @@
   <a href="mailto:shrey.mishra.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-shrey.mishra.dev%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/shrey-mishra">
+  <a href="www.linkedin.com/in/-shrey-mishra">
     <img src="https://img.shields.io/badge/LinkedIn-Shrey%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
