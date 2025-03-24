@@ -67,7 +67,7 @@
 </p>
 
 ---
-## 😂 Shits I think on 2AM
+## my midnight garbage
 Here are a couple of memes to lighten up your day and reflect the life of an AI/ML enthusiast and coder:
 
 <p align="center">
