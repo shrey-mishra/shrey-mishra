@@ -33,7 +33,7 @@
 
 ## 🛠️ Skills
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td>
       <h3>Programming Languages</h3>
