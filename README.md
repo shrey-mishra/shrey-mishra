@@ -105,7 +105,7 @@ Here are a couple of memes to lighten up your day and reflect the life of an AI/
   <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&locale=en&theme=dracula" alt="shrey-mishra" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=dracula" alt="shrey-mishra" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=shrey-mishra&theme=dracula" alt="shrey-mishra" />
 </p>
 
 ---
