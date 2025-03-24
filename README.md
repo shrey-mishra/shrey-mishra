@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon" width="40" height="40"/>
+  <img src="CkPe.gif" alt="AI Icon" width="40" height="40"/>
 </p>
 
 I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:
