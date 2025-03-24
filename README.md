@@ -22,7 +22,7 @@
   </div>
   <!-- Right Side: GIF -->
   <div style="flex: 1; text-align: center;">
-    <img src="CkPe.gif" alt="AI GIF" width="400" height="400"/>
+    <img src="6os.gif" alt="AI GIF" width="400" height="400"/>
   </div>
 </div>
 
