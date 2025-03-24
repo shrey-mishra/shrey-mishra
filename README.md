@@ -22,34 +22,34 @@
 
 ## 🛠️ Skills
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <!-- Left Column: First 5 Categories -->
-  <div style="width: 48%;">
-    <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp&perline=3" />
-    <h3>DevOps</h3>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker&perline=3" />
-    <h3>Backend Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,nginx,flask,firebase&perline=2" />
-    <h3>Front End Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=2" />
-    <h3>Database Systems</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
-  </div>
-  <!-- Right Column: Next 5 Categories -->
-  <div style="width: 48%;">
-    <h3>AI/ML</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&perline=2" />
-    <h3>Framework</h3>
-    <img src="https://skillicons.dev/icons?i=django" />
-    <h3>Softwares</h3>
-    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,postman&perline=2" />
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=fastapi,git,github,pycharm,eclipse,vscode,ubuntu&perline=3" />
-    <h3>Game Engines</h3>
-    <img src="https://skillicons.dev/icons?i=unreal" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
+      <h3>DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker" />
+      <h3>Backend Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,nginx,flask,firebase" />
+      <h3>Front End Development</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+      <h3>Database Systems</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    </td>
+    <td>
+      <h3>AI/ML</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn" />
+      <h3>Framework</h3>
+      <img src="https://skillicons.dev/icons?i=django" />
+      <h3>Softwares</h3>
+      <img src="https://skillicons.dev/icons?i=illustrator,photoshop,postman" />
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=fastapi,git,github,pycharm,eclipse,vscode,ubuntu" />
+      <h3>Game Engines</h3>
+      <img src="https://skillicons.dev/icons?i=unreal" />
+    </td>
+  </tr>
+</table>
 
 ---
 
