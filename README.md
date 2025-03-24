@@ -5,10 +5,9 @@
 
 ---
 
-
 ## 🚀 About Me
 
-<table style="border-collapse: collapse; width: 100%;>
+<table>
   <tr>
     <td style="text-align: left;">
       <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
@@ -21,7 +20,7 @@
       </ul>
     </td>
     <td style="text-align: center;">
-      <img src="https://i.gifer.com/Gmjd.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
+      <img src="https://your-gif-url-here.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
     </td>
   </tr>
 </table>
