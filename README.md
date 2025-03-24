@@ -54,9 +54,7 @@
 
 ---
 
-## 🔭 Projects
-- **[Project Name](link)**: Brief description of the project.
-- **[Another Project](link)**: Brief description.
+
 
 ---
 
