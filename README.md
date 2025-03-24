@@ -4,30 +4,27 @@
 ![gitartwork](gitartwork.svg)
 
 ---
----
 
-## 🚀 About Me!
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <!-- Left Side: Text -->
-  <div style="flex: 1; text-align: left;">
-    <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
-    <ul>
-      <li>🔭 Working on AI-driven user engagement tools</li>
-      <li>🌱 Learning Data Science, Computer Vision, and ML</li>
-      <li>👯‍♂️ Up for collaborating on AIML projects</li>
-      <li>💬 Chat with me about LLMs, Cloud, or AI</li>
-      <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
-    </ul>
-  </div>
-  <!-- Right Side: GIF -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://i.gifer.com/Gmjd.gif" alt="AI GIF" width="300" height="300"/>
-  </div>
-</div>
+## 🚀 About Me
 
----
-
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
+      <ul>
+        <li>🔭 Working on AI-driven user engagement tools</li>
+        <li>🌱 Learning Data Science, Computer Vision, and ML</li>
+        <li>👯‍♂️ Up for collaborating on AIML projects</li>
+        <li>💬 Chat with me about LLMs, Cloud, or AI</li>
+        <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
+      </ul>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://your-gif-url-here.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
