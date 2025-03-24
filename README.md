@@ -54,15 +54,12 @@
 
 ---
 
-
-
----
-
 ## 📫 Contact Me
 - **Email**: [shrey.mishra.dev@gmail.com](mailto:shrey.mishra.dev@gmail.com)  
 - **LinkedIn**: [Shrey Mishra](https://linkedin.com/in/-shrey-mishra)
 
 ---
+
 <!-- Avatar -->
 <p align="center">
   <img src="Animation - 1742839221946.gif" alt="Animated Avatar" style="border-radius: 100%; width: 250px; height: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
@@ -81,6 +78,20 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=dracula" alt="shrey-mishra" />
+</p>
+
+---
+
+## 😂 Tech Humor
+Here are a couple of memes to lighten up your day and reflect the life of an AI/ML enthusiast and coder:
+
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ8Q.gif" alt="AI Meme" width="300" />
+  <em>When your model finally converges after 10 hours of training</em>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/7K7K8.gif" alt="Coding Meme" width="300" />
+  <em>Me fixing a bug at 2 AM with no idea how it works</em>
 </p>
 
 ---
