@@ -91,13 +91,13 @@ Here are a couple of memes to lighten up your day and reflect the life of an AI/
     <p style="margin-top: 10px;"><em>Me fixing a bug at 2 AM with no idea how it works</em></p>
   </div>
 </div>
----
+
 <!-- Trophies -->
 <h2 align="center">🏆 Achievements 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=radical" />
 </p>
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
