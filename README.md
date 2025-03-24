@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 That's ME!
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; text-align: left;">
@@ -78,24 +78,26 @@
 </p>
 
 ---
-## my midnight garbage
+## 😒 My midnight garbage..
 Here are a couple of memes to lighten up your day and reflect the life of an AI/ML enthusiast and coder:
 
-<p align="center">
-  <img src="https://i.imgur.com/3ZQ8Q.gif" alt="AI Meme" width="300" />
-  <em>When your model finally converges after 10 hours of training</em>
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/7K7K8.gif" alt="Coding Meme" width="300" />
-  <em>Me fixing a bug at 2 AM with no idea how it works</em>
-</p>
-
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center; max-width: 300px;">
+    <img src="https://i.imgur.com/3ZQ8Q.gif" alt="AI Meme" width="300" />
+    <p style="margin-top: 10px;"><em>When your model finally converges after 10 hours of training</em></p>
+  </div>
+  <div style="text-align: center; max-width: 300px;">
+    <img src="https://i.imgur.com/7K7K8.gif" alt="Coding Meme" width="300" />
+    <p style="margin-top: 10px;"><em>Me fixing a bug at 2 AM with no idea how it works</em></p>
+  </div>
+</div>
+---
 <!-- Trophies -->
 <h2 align="center">🏆 Achievements 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=radical" />
 </p>
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -105,10 +107,6 @@ Here are a couple of memes to lighten up your day and reflect the life of an AI/
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=dracula" alt="shrey-mishra" />
 </p>
-
----
-
-
 
 ---
 
