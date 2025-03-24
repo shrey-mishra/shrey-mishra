@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<table>
+<table style="border-collapse: collapse; width: 100%;>
   <tr>
     <td style="text-align: left;">
       <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
