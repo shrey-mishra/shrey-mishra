@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td style="text-align: center;">
-      <img src="https://your-gif-url-here.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
+      <img src="https://i.gifer.com/Gmjd.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
     </td>
   </tr>
 </table>
