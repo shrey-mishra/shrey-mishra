@@ -68,19 +68,6 @@
   <img src="your-avatar.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 
-<!-- Tagline -->
-<p align="center" style="font-size: 24px; color: #ff00ff;">"Code is poetry"</p>
-
-<!-- Stats Section -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<div style="display: flex; justify-content: space-around; gap: 20px;">
-  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&bg_color=deg,linear-gradient(90,%237928CA,%23FF0080)&text_color=ffffff&icon_color=ffffff&show_icons=true" />
-  </div>
-  <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-  </div>
-</div>
 
 <!-- Trophies -->
 <h2 align="center">🏆 Achievements 🏆</h2>
