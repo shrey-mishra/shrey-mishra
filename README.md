@@ -19,7 +19,7 @@
     </ul>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="6oc.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
+    <img src="https://i.gifer.com/Gmjd.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
   </div>
 </div>
 
