@@ -22,7 +22,7 @@
   </div>
   <!-- Right Side: GIF -->
   <div style="flex: 1; text-align: center;">
-    <img src="6os.gif" alt="AI GIF" width="300" height="300"/>
+    <img src="https://i.gifer.com/Gmjd.gif" alt="AI GIF" width="300" height="300"/>
   </div>
 </div>
 
