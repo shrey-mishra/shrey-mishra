@@ -60,16 +60,25 @@
 
 ---
 
-<!-- Avatar -->
-<p align="center">
-  <img src="Animation - 1742839221946.gif" alt="Animated Avatar" style="border-radius: 100%; width: 250px; height: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-</p>
-
 <!-- Trophies -->
 <h2 align="center">🏆 Achievements 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=radical" />
 </p>
+
+
+## 😂 Shit Corner
+Here are a couple of memes to lighten up your day and reflect the life of an AI/ML enthusiast and coder:
+
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ8Q.gif" alt="AI Meme" width="300" />
+  <em>When your model finally converges after 10 hours of training</em>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/7K7K8.gif" alt="Coding Meme" width="300" />
+  <em>Me fixing a bug at 2 AM with no idea how it works</em>
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -81,18 +90,6 @@
 </p>
 
 ---
-
-## 😂 Tech Humor
-Here are a couple of memes to lighten up your day and reflect the life of an AI/ML enthusiast and coder:
-
-<p align="center">
-  <img src="https://i.imgur.com/3ZQ8Q.gif" alt="AI Meme" width="300" />
-  <em>When your model finally converges after 10 hours of training</em>
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/7K7K8.gif" alt="Coding Meme" width="300" />
-  <em>Me fixing a bug at 2 AM with no idea how it works</em>
-</p>
 
 ---
 
