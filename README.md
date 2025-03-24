@@ -65,9 +65,8 @@
 ---
 <!-- Avatar -->
 <p align="center">
-  <img src="Graident Ai Robot.jpg" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="Graident Ai Robot.gif" alt="Animated Avatar" style="border-radius: 50%; width: 150px; height: 150px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
-
 
 <!-- Trophies -->
 <h2 align="center">🏆 Achievements 🏆</h2>
