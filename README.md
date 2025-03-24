@@ -65,7 +65,7 @@
 ---
 <!-- Avatar -->
 <p align="center">
-  <img src="Animation - 1742839221946.gif" alt="Animated Avatar" style="border-radius: 70%; width: 200px; height: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="Animation - 1742839221946.gif" alt="Animated Avatar" style="border-radius: 50%; width: 400px; height: 400px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 
 <!-- Trophies -->
