@@ -7,23 +7,21 @@
 
 ## 🚀 About Me
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr>
-    <td style="text-align: left; padding: 10px; border: none;">
-      <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
-      <ul>
-        <li>🔭 Working on AI-driven user engagement tools</li>
-        <li>🌱 Learning Data Science, Computer Vision, and ML</li>
-        <li>👯‍♂️ Up for collaborating on AIML projects</li>
-        <li>💬 Chat with me about LLMs, Cloud, or AI</li>
-        <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
-      </ul>
-    </td>
-    <td style="text-align: center; padding: 10px; border: none;">
-      <img src="https://your-gif-url-here.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
+    <ul>
+      <li>🔭 Working on AI-driven user engagement tools</li>
+      <li>🌱 Learning Data Science, Computer Vision, and ML</li>
+      <li>👯‍♂️ Up for collaborating on AIML projects</li>
+      <li>💬 Chat with me about LLMs, Cloud, or AI</li>
+      <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="6oc.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
+  </div>
+</div>
 
 ---
 
