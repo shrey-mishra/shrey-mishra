@@ -37,11 +37,11 @@
   <tr>
     <td>
       <h3>Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,c" />
+      <img src="https://skillicons.dev/icons?i=python,c,javascript" />
       <h3>DevOps</h3>
       <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
       <h3>Backend Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,redis,postgresql" />
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,django,redis,postgresql" />
       <h3>Front End Development</h3>
       <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
       <h3>Database Systems</h3>
@@ -49,7 +49,7 @@
     </td>
     <td>
       <h3>AI/ML</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,numpy,pandas" />
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv,scikitlearn,numpy,pandas" />
       <h3>Framework</h3>
       <img src="https://skillicons.dev/icons?i=django,fastapi" />
       <h3>Services</h3>
