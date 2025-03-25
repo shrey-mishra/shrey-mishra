@@ -95,7 +95,7 @@
 <!-- Trophies -->
 <h2 align="center">🏆 Achievements 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra-ma&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=flat" />
 </p>
 
 ## 📊 GitHub Stats
