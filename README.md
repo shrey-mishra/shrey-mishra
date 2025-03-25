@@ -36,26 +36,28 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td>
-      <h3>AI/ML</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,numpy,pandas" />
-      <h3>Backend Technologies (Python Focused)</h3>
+      <h3>Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,c" />
+      <h3>DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
+      <h3>Backend Technologies</h3>
       <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,redis,postgresql" />
+      <h3>Front End Development</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
       <h3>Database Systems</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-      <h3>Deployment and APIs</h3>
-      <img src="https://skillicons.dev/icons?i=docker,aws,gcp,postman" />
     </td>
     <td>
-      <h3>Web Development (Basic)</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-      <h3>DevOps/Tools</h3>
+      <h3>AI/ML</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,numpy,pandas" />
+      <h3>Framework</h3>
+      <img src="https://skillicons.dev/icons?i=django,fastapi" />
+      <h3>Services</h3>
+      <img src="https://skillicons.dev/icons?i=azure,firebase,postman" />
+      <h3>Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,vscode,ubuntu,nginx" />
       <h3>Game Engines</h3>
       <img src="https://skillicons.dev/icons?i=unreal" />
-      <h3>General Programming</h3>
-      <img src="https://skillicons.dev/icons?i=c" />
-      <h3>Services</h3>
-      <img src="https://skillicons.dev/icons?i=azure,firebase" />
     </td>
   </tr>
 </table>
