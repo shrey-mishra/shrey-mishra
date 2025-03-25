@@ -12,7 +12,7 @@
     <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
     <ul>
       <li>🔭 Working on AI-driven user engagement tools</li>
-      <li>🌱 Learning Data Science, Computer Vision, and ML</li>
+      <li>🌱 Learning Data Science, Large Language Models, and ML</li>
       <li>👯‍♂️ Up for collaborating on AIML projects</li>
       <li>💬 Chat with me about LLMs, Cloud, or AI</li>
       <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
