@@ -106,7 +106,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/shrey-mishra">
-    <img src="https://streak-stats.demolab.com/?user=shrey-mishra&theme=dracula" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=shrey-mishra&theme=dracula" alt="GitHub Streak" width="400" height="150" />
   </a>
 </p>
 
