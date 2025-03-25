@@ -101,14 +101,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats&animated=true" alt="shrey-mishra's GitHub Stats" style="margin: 0 10px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=compact&theme=react&hide_border=true" alt="shrey-mishra's Top Languages" style="margin: 0 10px;"/>
   </div>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph" />
 </p>
 
 <p align="center">
