@@ -55,7 +55,7 @@
       <h3>Services</h3>
       <img src="https://skillicons.dev/icons?i=azure,firebase,postman" />
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,vscode,ubuntu,nginx" />
+      <img src="https://skillicons.dev/icons?i=git,vscode,linux,nginx" />
       <h3>Game Engines</h3>
       <img src="https://skillicons.dev/icons?i=unreal" />
     </td>
