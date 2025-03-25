@@ -101,15 +101,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats&animated=true" alt="shrey-mishra's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=compact&theme=react&hide_border=true" alt="shrey-mishra's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak/?username=shrey-mishra&theme=react&hide_border=true" alt="shrey-mishra's Streak Stats"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats&animated=true" alt="shrey-mishra's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=compact&theme=react&hide_border=true" alt="shrey-mishra's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
