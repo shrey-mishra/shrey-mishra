@@ -98,18 +98,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=onestar" />
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-mishra&show_icons=true&locale=en&layout=compact&theme=dark" alt="shrey-mishra" />
-<p align="center">
-  <a href="https://github.com/shrey-mishra">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats&animated=true" alt="shrey-mishra's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats&animated=true" alt="shrey-mishra's GitHub Stats" />
 </p>
 
-</p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=compact&theme=react&hide_border=true" alt="shrey-mishra's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak/?username=shrey-mishra&theme=react&hide_border=true" alt="shrey-mishra's Streak Stats"/>
 </p>
 
 
