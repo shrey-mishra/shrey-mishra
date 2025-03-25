@@ -43,9 +43,9 @@
       <h3>Backend Technologies</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,nginx,flask,firebase" />
       <h3>Front End Development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+      <img src="https://skillicons.dev/icons?i=html,css,react" />
       <h3>Database Systems</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
     </td>
     <td>
       <h3>AI/ML</h3>
