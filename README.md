@@ -101,8 +101,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-mishra&show_icons=true&locale=en&layout=compact&theme=dracula" alt="shrey-mishra" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&locale=en&theme=dracula" alt="shrey-mishra" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-mishra&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="shrey-mishra" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&locale=en&theme=react-dark" alt="shrey-mishra" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph" />
