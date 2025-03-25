@@ -112,5 +112,9 @@
   <img src="https://github-readme-stats.vercel.app/api/streak/?username=shrey-mishra&theme=react&hide_border=true" alt="shrey-mishra's Streak Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph" />
+</p>
+
 
 <p align="center"><em>"The only way to do great work is to love what you do." - Steve Jobs</em></p>
