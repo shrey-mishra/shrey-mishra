@@ -105,7 +105,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&locale=en&theme=dracula" alt="shrey-mishra" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=dracula" alt="shrey-mishra" />
+  <a href="https://github.com/shrey-mishra">
+    <img src="https://streak-stats.demolab.com/?user=shrey-mishra&theme=dracula" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
