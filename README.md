@@ -55,7 +55,7 @@
       <h3>Softwares</h3>
       <img src="https://skillicons.dev/icons?i=illustrator,photoshop,postman" />
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=fastapi,git,github,pycharm,eclipse,vscode,ubuntu" />
+      <img src="https://skillicons.dev/icons?i=fastapi,git,vscode,ubuntu" />
       <h3>Game Engines</h3>
       <img src="https://skillicons.dev/icons?i=unreal" />
     </td>
