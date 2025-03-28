@@ -3,7 +3,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shrey-mishra&color=blue)
+
 
 
 ---
