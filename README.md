@@ -115,7 +115,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph" />
 </p>
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph](https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=vue-dark&hide_border=true)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph" />
 </p>
 
 <p align="center"><em>"The only way to do great work is to love what you do." - Steve Jobs</em></p>
