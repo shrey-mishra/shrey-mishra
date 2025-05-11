@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Mishra</h1>
-<h3 align="center">Co-Founder at KashLabs AI | AI & ML Enthusiast | Software Engineer</h3>
+<h3 align="center">| AI & ML Enthusiast | Software Engineer</h3>
 
 ![gitartwork](gitartwork.svg)
 
