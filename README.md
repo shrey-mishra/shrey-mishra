@@ -43,7 +43,7 @@
       <img src="https://skillicons.dev/icons?i=python,c,javascript" />
       <h3>DevOps</h3>
       <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
-      <h3>Backend Technologies</h3>
+      <h3>Backend Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=fastapi,flask,django,redis,postgresql" />
       <h3>Front End Development</h3>
       <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
