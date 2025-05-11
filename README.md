@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Mishra</h1>
-<h3 align="center">| AI & ML Enthusiast | Software Engineer</h3>
+<h3 align="center">AI & ML Enthusiast | Software Engineer</h3>
 
 ![gitartwork](gitartwork.svg)
 
@@ -29,7 +29,7 @@
 ---
 
 ## 📄 Experiences
-- **Co-Founder at KashLabs AI**  
+
 - [View my full resume](https://drive.google.com/file/d/14O4oVN6HEjzotuLcE1KcLe0Q0DglqXHf/view?usp=sharing)
 
 ---
