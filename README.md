@@ -82,19 +82,7 @@
 </p>
 
 ---
-## 😒 My midnight garbage..
 
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center; max-width: 300px;">
-    <img src="https://i.imgur.com/3ZQ8Q.gif" alt="AI Meme" width="300" />
-    <p style="margin-top: 10px;"><em>When your model finally converges after 10 hours of training</em></p>
-  </div>
-  <div style="text-align: center; max-width: 300px;">
-    <img src="https://i.imgur.com/7K7K8.gif" alt="Coding Meme" width="300" />
-    <p style="margin-top: 10px;"><em>Me fixing a bug at 2 AM with no idea how it works</em></p>
-  </div>
-</div>
 
 <!-- Trophies -->
 <h2 align="center">🏆 Achievements 🏆</h2>
@@ -117,5 +105,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=vue-dark&hide_border=true" alt="shrey-mishra's GitHub Streak" />
 </p>
+
+![snake gif](https://github.com/shrey-mishra/shrey-mishra/blob/output/github-snake-dark.svg)
+
 
 <p align="center"><em>"The only way to do great work is to love what you do." - Steve Jobs</em></p>
