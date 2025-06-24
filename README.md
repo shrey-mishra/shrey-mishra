@@ -30,9 +30,8 @@
 
 ## 📄 Experiences
 
-- [View my full resume]([https://drive.google.com/file/d/14O4oVN6HEjzotuLcE1KcLe0Q0DglqXHf/view?usp=sharing](https://drive.google.com/file/d/1cPCVLWpdY8XE81-Cqpsl1ZWF-dAzM13d/view?usp=sharing))
+- [View my full resume](https://drive.google.com/file/d/1cPCVLWpdY8XE81-Cqpsl1ZWF-dAzM13d/view?usp=sharing)
 
----
 
 ## 🛠️ Skills
 
