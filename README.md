@@ -142,15 +142,11 @@
 
 ### 🐍 My Contribution Snake
 
-<p align="center">
-  ![snake gif](https://github.com/shrey-mishra/shrey-mishra/blob/output/github-snake-dark.svg)
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=vue-dark&hide_border=true" alt="shrey-mishra's GitHub Streak" />
+</p> -->
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrey-mishra&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
-</p>
+![snake gif](https://github.com/shrey-mishra/shrey-mishra/blob/output/github-snake-dark.svg)
 
 <p align="center">
   <em>
