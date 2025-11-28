@@ -140,13 +140,6 @@ me.say_hi()
 
 <br/><br/>
 
-### 📅 Commit Activity Timeline
-
-<!-- Commit Activity Calendar -->
-<img src="https://ghchart.rshah.org/64FFDA/shrey-mishra" width="100%" alt="Commit Calendar" />
-
-</div>
-
 ## 🐍 Contribution Graph
 
 <div align="center">
