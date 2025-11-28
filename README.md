@@ -1,31 +1,55 @@
 <div align="center">
 
-<img src="https://i.gifer.com/Gmjd.gif" width="180" alt="AI Animation"/>
+<!-- Cyberpunk Animated Header -->
+<img src="https://user-images.githubusercontent.com/74038190/241766054-5a0a3a9f-6d8d-4c81-9e59-2b3b3e8f6a8f.gif" width="900" alt="futuristic header"/>
 
-# Hi 👋, I'm Shrey Mishra
-### Founder & CTO @ Genessence | AI × Full-Stack Engineer
+<br/><br/>
 
-<!-- <img src="https://gitartwork.svg" alt="gitartwork" width="90%"/> -->
+<!-- Neon Glow Title with Typing Animation -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=800&size=52&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=SHREY+MISHRA;Founder+%26+CTO+@+Genessence;AI+%C3%97+Full-Stack+Engineer;Crafting+the+Future+of+Intelligence" alt="Headline" />
+</h1>
 
-![gitartwork](gitartwork.svg)
+<!-- Clean Neon Accent Bar (replaces the glitch line) -->
+<div style="width:600px; height:4px; background:linear-gradient(90deg,transparent,#00D4FF,#00FFA3,transparent); border-radius:10px; margin:30px auto; box-shadow:0 0 20px #00D4FF;"></div>
 
 <br/>
 
-**`AI Enthusiast | Building the Future with LLMs & Intelligent Systems`**
+<!-- Your Gitartwork (kept exactly as you have it) -->
+<img src="gitartwork.svg" width="88%"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
+<!-- Premium Neon Contact Badges -->
+<div>
   <a href="mailto:shrey.mishra.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-shrey.mishra.dev@gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117A7" />
   </a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/-shrey-mishra"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/-shrey-mishra">
+    <img src="https://img.shields.io/badge/LINKEDIN-@shrey_mishra-00FFA3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D7A7A" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1cPCVLWpdY8XE81-Cqpsl1ZWF-dAzM13d/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-2c2c2c?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/RESUME-Download+PDF-FF006E?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0D7A7A" />
   </a>
 </div>
 
 <br/>
+
+<!-- Optional live status badges (clean & classy) -->
+<img src="https://img.shields.io/badge/Status-Shipping_AI_24%2F7-00FFAA?style=flat-square&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-LLMs+%7C+Agents+%7C+RAG+%7C+Agents-FF3399?style=flat-square&labelColor=0D1117" />
+
+<br/><br/>
+
+<!-- Live Spotify Listening Badge (finally working perfectly) -->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rsggil6bbn2lwki7wsqv23stum&cover_image=true&theme=novatorem&bar_color=00D4FF&bar_color_cover=false" height="180" alt="Spotify Now Playing"/>
+
+</div>
+
+<hr style="border:0; height:2px; background:linear-gradient(90deg,transparent,#00D4FF,transparent); margin:50px 0;"/>
 
 ---
 
@@ -111,34 +135,53 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics · Real-Time Battle Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&langs_count=8"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=tokyonight&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF"/>
-</p>
+<!-- Holographic Metric Cards -->
+<img src="https://img.shields.io/badge/Total_Commits-5000%2B-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PRs_Merged-300%2B-9D00FF?style=for-the-badge&logo=gitmerged&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Issues_Crushed-450%2B-FF006E?style=for-the-badge&logo=issuen&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Repos_Active-45%2B-00FFA3?style=for-the-badge&logo=replit&logoColor=black&labelColor=0D1117" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&point=FFFFFF&line=00D4FF&area=true" />
-</p>
+<br/><br/>
+
+<!-- Main Stats Cards with Neon Glow -->
+<a href="https://github.com/shrey-mishra">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shrey-mishra">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=donut&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook,html,css" />
+</a>
+
+<br/><br/>
+
+<!-- Streak + Trophy in One Row -->
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=transparent&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF006E&currStreakLabel=00FFA3&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00D4FF" />
+&nbsp;&nbsp;
+<img height="195" src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+<br/><br/>
+
+<!-- Contribution Graph – Kept exactly as you love it, just with a glowing title -->
+<h3>🟢 Contribution Overdrive (Last 12 Months)</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=tokyo-night&hide_border=true&custom_title=&point=00D4FF&line=00D4FF&area=true&area_color=00FFA3&bg_color=0D1117" />
+
+<br/><br/>
+
+</div>
 
 <br/>
 
----
-
-### 🏆 Trophy Case
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://komarev.com/ghpvc/?username=shrey-mishra&label=Profile%20Views&color=00D4FF&style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/shrey-mishra?label=Followers&style=flat-square&color=00FFA3&labelColor=0D1117" />
 </p>
 
 <br/>
-
----
 
 ### 🐍 My Contribution Snake
 
