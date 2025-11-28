@@ -143,7 +143,7 @@
 ### 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/shrey-mishra/shrey-mishra/blob/output/github-contribution-grid-snake-dark.svg" />
+  ![snake gif](https://github.com/shrey-mishra/shrey-mishra/blob/output/github-snake-dark.svg)
 </p>
 
 <br/>
