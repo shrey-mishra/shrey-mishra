@@ -7,6 +7,8 @@
 
 <img src="https://gitartwork.svg" alt="gitartwork" width="90%"/>
 
+![gitartwork](gitartwork.svg)
+
 <br/>
 
 **`AI Enthusiast | Building the Future with LLMs & Intelligent Systems`**
