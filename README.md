@@ -96,30 +96,53 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## GitHub Analytics
-
-<div align="center">
-
-<!-- Main Stats + Top Languages Side by Side -->
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=64FFDA&icon_color=64FFDA&text_color=C0C0C0&bg_color=0d1117&border_radius=12" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=64FFDA&text_color=C0C0C0&bg_color=0d1117&border_radius=12&langs_count=10" />
+## 📊 GitHub Analytics
 
 <br/><br/>
+### 🔥 Streak Stats
 
 <!-- Streak Stats – Wider & More Vibrant -->
-<img src="https://streak-stats.demolab.com?user=shrey-mishra&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=64FFDA&dates=C0C0C0&border_radius=12" width="840" />
+<img src="https://streak-stats.demolab.com?user=shrey-mishra&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=64FFDA&dates=C0C0C0&border_radius=12" width="840" alt="GitHub Streak" />
 
 <br/><br/>
+
+### 📊 Detailed Contribution Insights
+
+<!-- Contribution Stats -->
+<img src="https://github-contributor-stats.vercel.app/api?username=shrey-mishra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=C0C0C0&border_radius=12" alt="Contribution Stats" />
+
+<br/><br/>
+
+### 💻 Commits, PRs, Issues & Reviews
+
+<!-- Comprehensive Activity Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrey-mishra&theme=tokyonight" width="400" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrey-mishra&theme=tokyonight&utcOffset=5.5" width="400" alt="Productive Time" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrey-mishra&theme=tokyonight" width="840" alt="Profile Details" />
+
+<br/><br/>
+
+### 🎯 Contribution Heatmap
 
 <!-- Contribution Graph – Full Width & Smooth -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Heatmap&point=64FFDA&line=64FFDA&area=true&area_color=64FFDA20&bg_color=0d1117&color=C0C0C0" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Heatmap&point=64FFDA&line=64FFDA&area=true&area_color=64FFDA20&bg_color=0d1117&color=C0C0C0&border_radius=12" width="100%" alt="Activity Graph" />
 
 <br/><br/>
 
+### 🏅 Achievement Showcase
+
 <!-- GitHub Trophies – Neon Style -->
-<img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15&title_color=64FFDA&text_color=C0C0C0" />
+<img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15&title_color=64FFDA&text_color=C0C0C0&border_radius=12" alt="Trophies" />
+
+<br/><br/>
+
+### 📅 Commit Activity Timeline
+
+<!-- Commit Activity Calendar -->
+<img src="https://ghchart.rshah.org/64FFDA/shrey-mishra" width="100%" alt="Commit Calendar" />
 
 </div>
 
