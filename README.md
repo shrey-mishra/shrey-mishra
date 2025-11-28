@@ -1,112 +1,113 @@
-<h1 align="center">Hi 👋, I'm Shrey Mishra</h1>
-<h2 align="center"> Founder & CTO, Genessence</h2>
-<h3 align="center">AI & ML Enthusiast | Software Engineer</h3>
+<div align="center">
 
-![gitartwork](gitartwork.svg)
+<img src="https://i.gifer.com/Gmjd.gif" width="180" alt="AI Animation"/>
 
+# Hi 👋, I'm Shrey Mishra
+### Founder & CTO @ Genessence | AI × Full-Stack Engineer
 
+<img src="https://gitartwork.svg" alt="gitartwork" width="90%"/>
 
+<br/>
 
----
+**`AI Enthusiast | Building the Future with LLMs & Intelligent Systems`**
 
-## 🚀 who-me!
+<br/>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1; text-align: left;">
-    <p>I’m an AI enthusiast and software engineer passionate about creating impactful solutions. Here’s a quick rundown:</p>
-    <ul>
-      <li>🔭 Working on AI-driven user engagement tools</li>
-      <li>🌱 Learning Data Science, Large Language Models, and ML</li>
-      <li>👯‍♂️ Up for collaborating on AIML projects</li>
-      <li>💬 Chat with me about LLMs, Cloud, or AI</li>
-      <li>⚡ Fun fact: I’m betting on AI to change the world (hopefully for the good!)</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://i.gifer.com/Gmjd.gif" alt="AI GIF" style="width: 300px; height: auto;"/>
-  </div>
+<div align="center">
+  <a href="mailto:shrey.mishra.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/-shrey-mishra"/>
+  <a href="https://drive.google.com/file/d/1cPCVLWpdY8XE81-Cqpsl1ZWF-dAzM13d/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-2c2c2c?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
 </div>
 
----
-
-## 📄 Experiences
-
-- [View my full resume](https://drive.google.com/file/d/1cPCVLWpdY8XE81-Cqpsl1ZWF-dAzM13d/view?usp=sharing)
-
-
-## 🛠️ Skills
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td>
-      <h3>Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,c,javascript" />
-      <h3>DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
-      <h3>Backend Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=fastapi,flask,django,redis,postgresql" />
-      <h3>Front End Development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-      <h3>Database Systems</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-    </td>
-    <td>
-      <h3>AI/ML</h3>
-      <img src="https://skillicons.dev/icons?i=pytorch,opencv,scikitlearn,numpy,pandas" />
-      <h3>Framework</h3>
-      <img src="https://skillicons.dev/icons?i=django,fastapi" />
-      <h3>Services</h3>
-      <img src="https://skillicons.dev/icons?i=azure,firebase,postman" />
-      <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,vscode,linux,nginx" />
-      <h3>Game Engines</h3>
-      <img src="https://skillicons.dev/icons?i=unreal" />
-    </td>
-  </tr>
-</table>
-
+<br/>
 
 ---
 
-## 📫 Contact Me
+### 🚀 About Me
 
-<p align="center">Feel free to reach out to me through any of the following channels:</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+AI+products;Building+Genessence+from+ground+up;Obsessed+with+LLMs+%26+Autonomous+Agents;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <p align="center">
-  <a href="mailto:shrey.mishra.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shrey.mishra.dev%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/-shrey-mishra">
-    <img src="https://img.shields.io/badge/LinkedIn-Shrey%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <strong>I’m an AI-obsessed founder-engineer passionate about building intelligent products that matter.</strong>
 </p>
+
+| 🌟 Currently Building | 🔭 Working on AI-driven user engagement & retention systems |
+| ---------------------- | ------------------------------------------------------------- |
+| 🌱 Learning            | Advanced RAG, Agentic Workflows, MLOps @ Scale                |
+| 👯 Looking to collab   | Open-source LLM projects, AI SaaS, Full-stack AI tools        |
+| 💬 Ask me about        | LLMs • FastAPI • System Design • Cloud • AI Ethics            |
+| ⚡ Fun fact             | I believe AI will either save us all... or make us all unemployed (50/50) 😅 |
+
+<br/>
 
 ---
 
-
-<!-- Trophies -->
-<h2 align="center">🏆 Achievements 🏆</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=onestar" />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
+### 🛠️ Tech Arsenal
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats&animated=true" alt="shrey-mishra's GitHub Stats" style="margin: 0 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=compact&theme=react&hide_border=true" alt="shrey-mishra's Top Languages" style="margin: 0 10px;"/>
-  </div>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,react,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,redis,postgresql,mongodb,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,numpy,pandas" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,firebase,nginx,linux,git,postman,vscode,unreal" />
+</p>
+
+<br/>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=react-dark" alt="shrey-mishra's activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=tokyonight&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-mishra&theme=vue-dark&hide_border=true" alt="shrey-mishra's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&point=FFFFFF&line=00D4FF&area=true" />
 </p>
 
-![snake gif](https://github.com/shrey-mishra/shrey-mishra/blob/output/github-snake-dark.svg)
+<br/>
 
+---
 
-<p align="center"><em>"The only way to do great work is to love what you do." - Steve Jobs</em></p>
+### 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<br/>
+
+---
+
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/shrey-mishra/shrey-mishra/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrey-mishra&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <em>
+    <b>“The best way to predict the future is to invent it.”</b> — Alan Kay
+  </em>
+</p>
+
+</div>
