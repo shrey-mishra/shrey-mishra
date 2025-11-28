@@ -5,7 +5,7 @@
 # Hi 👋, I'm Shrey Mishra
 ### Founder & CTO @ Genessence | AI × Full-Stack Engineer
 
-<img src="https://gitartwork.svg" alt="gitartwork" width="90%"/>
+<!-- <img src="https://gitartwork.svg" alt="gitartwork" width="90%"/> -->
 
 ![gitartwork](gitartwork.svg)
 
