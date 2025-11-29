@@ -12,6 +12,12 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey.mishra.dev@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1cPCVLWpdY8XE81-Cqpsl1ZWF-dAzM13d/view?usp=sharing)
 
+<div align = center>
+
+<img src="https://komarev.com/ghpvc/?username=shrey-mishra&label=Profile%20Views&color=A277FF&style=for-the-badge" alt="Profile views" />
+
+</div>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -164,8 +170,6 @@ me.say_hi()
 **— Steve Jobs**
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=shrey-mishra&label=Profile%20Views&color=A277FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
