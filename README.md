@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-shrey-mishra)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey.mishra.dev@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1cPCVLWpdY8XE81-Cqpsl1ZWF-dAzM13d/view?usp=sharing)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SyntaxVoyager)
 
 <div align = center>
 
@@ -103,6 +104,32 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📝 Latest from Medium
+
+<div align="center">
+
+### ✍️ Sharing Knowledge & Insights
+
+<a href="https://medium.com/@SyntaxVoyager">
+  <img src="https://github-readme-medium.vercel.app/?username=SyntaxVoyager&limit=6&theme=tokyonight" alt="Medium Articles" />
+</a>
+
+<br/><br/>
+
+### 📚 Featured Article
+
+<a href="https://medium.com/@SyntaxVoyager/building-web-apps-on-a-budget-my-journey-with-an-ai-powered-development-framework-cc4ad9090370">
+  <img src="https://img.shields.io/badge/Building_Web_Apps_on_a_Budget-My_Journey_with_an_AI--Powered_Development_Framework-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Featured Article" />
+</a>
+
+<br/>
+
+**📖 [Read More on Medium →](https://medium.com/@SyntaxVoyager)**
 
 </div>
 
