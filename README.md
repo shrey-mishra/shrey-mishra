@@ -137,21 +137,19 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 <div align = "center">
-  
-<br/><br/>
-### 🔥 Streak Stats
-
-<!-- Streak Stats – Wider & More Vibrant -->
-<img src="https://streak-stats.demolab.com?user=shrey-mishra&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=64FFDA&dates=C0C0C0&border_radius=12" width="840" alt="GitHub Streak" />
 
 <br/><br/>
-
-### 📊 Detailed Contribution Insights
-
-<!-- Contribution Stats -->
-<img src="https://github-contributor-stats.vercel.app/api?username=shrey-mishra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=C0C0C0&border_radius=12" alt="Contribution Stats" />
-
+🔥 Streak Stats
+<!-- Streak Stats – Enhanced Design -->
+<img src="https://nirzak-streak-stats.vercel.app?user=shrey-mishra&theme=radical&hide_border=true&background=0D1117&ring=A277FF&fire=FF6B6B&currStreakLabel=A277FF&sideLabels=64FFDA&dates=8B949E&stroke=64FFDA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="840" alt="GitHub Streak" />
 <br/><br/>
+
+📊 Advanced Analytics Dashboard
+<!-- Stats Cards with Modern Design -->
+<img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=64FFDA&text_color=8B949E&rank_icon=github&number_format=long&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=8B949E&langs_count=8" alt="Top Languages" width="49.5%" />
+<br/>
+ 
 
 ### 💻 Commits, PRs, Issues & Reviews
 
@@ -171,12 +169,17 @@ me.say_hi()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey-mishra&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Heatmap&point=64FFDA&line=64FFDA&area=true&area_color=64FFDA20&bg_color=0d1117&color=C0C0C0&border_radius=12" width="100%" alt="Activity Graph" />
 
 <br/><br/>
-
-### 🏅 Achievement Showcase
-
-<!-- GitHub Trophies – Neon Style -->
-<img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15&title_color=64FFDA&text_color=C0C0C0&border_radius=12" alt="Trophies" />
-
+🏅 Achievement Showcase
+<!-- GitHub Trophies – Alternative Working Solution -->
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=shrey-mishra&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</p>
+<!-- Fallback: If above doesn't work, use this -->
+<!-- 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrey-mishra&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
+-->
 <br/><br/>
 
 ## 🐍 Contribution Graph
@@ -189,7 +192,7 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 Words to Live By
+## 💭 Greatest of the Gaame
 
 <div align="center">
 
