@@ -145,8 +145,8 @@ me.say_hi()
 <br/><br/>
 📊 Advanced Analytics Dashboard
 <!-- Stats Cards with Modern Design -->
-<img src="https://github-readme-stats.vercel.app/api?username=shrey-mishra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=64FFDA&text_color=8B949E&rank_icon=github&number_format=long&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49.5%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey-mishra&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=8B949E&langs_count=8" alt="Top Languages" width="49.5%" />
+<img src="https://github-readme-stats-eight-pink.vercel.app/api?username=shrey-mishra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=64FFDA&text_color=8B949E&rank_icon=github&number_format=long&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49.5%" />
+<img src="https://github-readme-stats-eight-pink.vercel.app/api/top-langs/?username=shrey-mishra&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=8B949E&langs_count=8" alt="Top Languages" width="49.5%" />
 <br/>
 
 ### 💻 Commits, PRs, Issues & Reviews
